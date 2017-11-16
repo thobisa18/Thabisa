@@ -1,0 +1,44 @@
+Automation 
+
+Functional Testing Tools
+>>> QTP-- Mercury Interactive(HP)
+>>>RTP---IBM
+>>>Silk Test --IBM
+>>>Selenium---
+
+Performance Testing Tools
+>>>Lead Runner--Mercury Interactive
+>>>Rational PT--IBM
+>>>Jmeter
+
+Testing Management Tool
+>>>ALM--Mercury Interactive
+>>>Bugzilla--Free Source
+
+QTP
+>>Is an automated functional testing tool that helps testers to execute automated tests in order to identify errors, 
+>>defects in contrary to the expected results of the application under test.
+>> It was initially developed by Mercury interactive\
+>>Now it is acquired by HP
+>> It is used to test both windows and web based application
+>>Vb Script is used to generate test script
+>>QTP has inbuilt report generator and inbuild excel sheet to process data
+
+Adv of QTP
+>>It supports record and playback
+>>It uses active screen to record scripts and helps tester in referring the screen object properties
+>>It has excellent object identification process or mechanism
+>>It supports different add-ins like Oracle, Java, SAP, NET, Web Forms, People soft, etc..
+>>It allows you to enhance the existing tests even without the AUT through an active screen
+>>It supports popular automation frameworks- keyword driven testing approach, modular testing approach, data driven testing approach, etc..
+>>It comes with an inbuilt IDE
+>>It can be integrated with Test management tools like Quality Center, Test Director, and Winrunner
+>>Different types of suites like Smoke, Regression, Sanity can be easily maintained
+>>It supports XML
+>>Test reporting is possible through QTP for analysis purpose
+>>Easy to maintain
+
+Dis of QTP
+>>It is platform independent tool and It works only in windows 
+>>It requires licensing
+>>It supports internet Explorer, basic version of chrome and Mozilla FireFox
